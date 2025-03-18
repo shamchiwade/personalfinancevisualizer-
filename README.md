@@ -1,3 +1,7 @@
+Personal Finance Visualizer is a web application built using Next.js, React, Shadcn/UI, Recharts, and MongoDB. It helps users track and manage their personal finances by providing a detailed view of transactions, categorizing them, and setting up budgets. The app offers visualization features for better understanding of spending patterns, helping users make informed financial decisions.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
